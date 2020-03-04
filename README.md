@@ -7,3 +7,5 @@ A few console related units for Delphi:
 * Velthuis.AutoConsole, a unit that, when included, will stop console programs from closing, when they are not started from a Windows console window; see http://www.rvelthuis.de/programs/autoconsole.html
 
 The project `ConsoleDemo` shows a few of the features of the unit Velthuis.Console.
+
+Since Rudy Velthuis has passed on, I've turned a copy of his website into a [wiki within this project](https://github.com/chuacw/Consoles/wiki).
